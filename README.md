@@ -1,2 +1,2 @@
 ## About
-Monero binaries for `amd64`
+Monero binaries for `armv7`
