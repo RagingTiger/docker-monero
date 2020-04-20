@@ -13,7 +13,7 @@ COPY monero /monero
 WORKDIR /monero
 
 # set monero binary version
-ARG MONERO_BIN_VER='monero-linux-x64-v0.15.0.5.tar.bz2'
+ARG MONERO_BIN_VER='monero-linux-armv7-v0.15.0.5.tar.bz2'
 
 # verify
 ENV FINGERPRINT='Key fingerprint = 81AC 591F E9C4 B65C 5806  AFC3 F0AF 4D46 2A0B DF92'
