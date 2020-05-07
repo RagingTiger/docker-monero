@@ -77,7 +77,7 @@ An attempt to document some of the features of the `Monero` daemon.
 
 ### monerod --help
 ```
-$docker run --rm -it tigerj/monero:amd64 monerod --help
+$ docker run --rm -it tigerj/monero:amd64 monerod --help
 
 Monero 'Carbon Chamaeleon' (v0.15.0.5-release)
 
